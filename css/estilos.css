@@ -11,7 +11,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #dddddd;
+    border: 1px solid #DDD;
     margin: 0 auto;
 }
 
@@ -36,4 +36,17 @@ font-size: 0.8em;
 #container h1
 {
  font-size: 20px;
+}
+
+#post
+{
+ padding: 1em;
+}
+
+#footer
+{
+background: #777;
+color: white;
+text-align: center;
+padding: 0.5em;
 }
